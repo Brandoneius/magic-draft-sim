@@ -33,7 +33,7 @@ Header("Cache-Control: max-age=3000, must-revalidate");
     </ul>
   </div>
 </nav> -->
-  
+<!-- <div class="container" style="background-image: url('https://www.insulinadvocate.com/cardback.png');"> -->
 <div class="container">
   <h3>Click on the button to generate a sealed pool</h3>
   <form action="dmu_sealed.php" method="POST" role="form" >
